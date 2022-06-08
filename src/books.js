@@ -2,4 +2,4 @@
 const books = [];
 
 // Ekspor Books
-module.eksports = books;
+module.exports = books;
